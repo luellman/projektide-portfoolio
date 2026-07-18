@@ -1,8 +1,8 @@
 # Projektide portfoolio — Rahandus, Raamatupidamine ja SQL
 
-See repositoorium koondab minu õpingute käigus iseseisvalt lahendatud praktilisi ülesandeid, mis demonstreerivad minu oskusi kolmes valdkonnas: **finantsanalüüs ja investeeringute hindamine**, **raamatupidamine** ning **andmebaaside disain ja SQL**. Iga alamkaust sisaldab eraldi README-faili, kus on täpsemalt kirjeldatud kaustas olevate failide sisu.
+See repositoorium koondab minu õpingute jooksul tehtud iseseisvaid praktilisi töid, mis demonstreerivad minu teadmisi ja praktilisi oskusi **finantsanalüüsi ja investeeringute hindamise**, **raamatupidamise** ning **andmebaaside disaini ja SQL-i** valdkonnas. Iga alamkaust sisaldab eraldi README-faili, kus on täpsemalt kirjeldatud kaustas olevate failide sisu.
 
-Failid on valminud õppetöö raames (harjutusülesanded ja praktikumid), kuid näitavad valemipõhiste Exceli mudelite, kahekordse kirjendamise ning SQL-i/andmebaaside praktilist rakendamist, mitte lihtsalt teooria tundmist.
+Kõik failid on valminud õppetöö käigus iseseisvalt lahendatud harjutusülesannete ja praktikumide põhjal. Need demonstreerivad minu praktilisi oskusi Exceli valemipõhiste mudelite koostamisel, kahekordse kirjendamise rakendamisel ning SQL-i ja relatsiooniliste andmebaaside kasutamisel.
 
 Linkidele vajutades saab iga valdkonnaga lähemalt tutvuda.
 
