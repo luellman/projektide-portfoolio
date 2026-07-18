@@ -2,7 +2,7 @@
 
 See repositoorium koondab minu õpingute jooksul tehtud iseseisvaid praktilisi töid, mis demonstreerivad minu teadmisi ja praktilisi oskusi **finantsanalüüsi ja investeeringute hindamise**, **raamatupidamise** ning **andmebaaside disaini ja SQL-i** valdkonnas. Iga alamkaust sisaldab eraldi README-faili, kus on täpsemalt kirjeldatud kaustas olevate failide sisu.
 
-Kõik failid on valminud õppetöö käigus iseseisvalt lahendatud harjutusülesannete ja praktikumide põhjal. Need demonstreerivad minu praktilisi oskusi Exceli valemipõhiste mudelite koostamisel, kahekordse kirjendamise rakendamisel ning SQL-i ja relatsiooniliste andmebaaside kasutamisel.
+Kõik failid on valminud õppetöö käigus iseseisvalt lahendatud harjutusülesannete ja praktikumide põhjal. Repositoorium sisaldab sealhulgas Excelis koostatud finantsmudeleid, raamatupidamisülesandeid, mis põhinevad kahekordsel kirjendamisel, ning SQL-päringuid ja relatsiooniliste andmebaaside disainilahendusi.
 
 Linkidele vajutades saab iga valdkonnaga lähemalt tutvuda.
 
