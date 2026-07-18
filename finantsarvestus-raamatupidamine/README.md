@@ -25,12 +25,12 @@ Selles repositooriumis on kogumik Exceli töövihikuid, mis katavad finantsarves
 Mitmeosalised töövihikud (nt algbilanss → päevaraamat → T-kontod → käibeandmik → lõppbilanss) on üles ehitatud eraldi lehtedena, mis peegeldab raamatupidamistsükli tegelikku käiku ja võimaldab jälgida, kuidas üks majandustehing liigub lausendist lõpparuandeni. Arvutused põhinevad valemitel, mistõttu lähteandmeid muutes uuenevad tulemused automaatselt kõigil seotud lehtedel.
 
 ## Näited
- 
+
+*T-kontode täitmine päevaraamatu ning tehtud tehingute alusel.* 
 ![Täidetud T-konto](./finantsarvestus-pildid/T-Kontode-täitmine.png)
-*T-kontode täitmine päevaraamatu ning tehtud tehingute alusel.*
- 
+
+*Palga arvestamine koos kinnipidamistega ning arvutuskäiguga.* 
 ![Palgaarvestuse arvutuskäik](./finantsarvestus-pildid/palga-arvestus.png)
-*Palga arvestamine koos kinnipidamistega ning arvutuskäiguga.*
- 
-![FIFO tulemustabel](./finantsarvestus-pildid/FIFO&kaalutud-keskmine-arvestus.png)
+
 *Laovarude hindamine FIFO ning kaalutud keskmise arvestuse meetodil — lõppjääk, kasum ja müüdud kauba kulu (COGS).*
+![FIFO tulemustabel](./finantsarvestus-pildid/FIFO&kaalutud-keskmine-arvestus.png)
