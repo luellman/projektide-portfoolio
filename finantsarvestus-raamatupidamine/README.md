@@ -15,7 +15,7 @@ Selles repositooriumis on kogumik Exceli töövihikuid, mis katavad finantsarves
 ## Kasutatud meetodid ja oskused
 
 - **Raamatupidamise põhitsükkel:** kahekordne kirjendamine, päevaraamatu ja pearaamatu (T-kontode) pidamine, käibeandmiku ja bilansi koostamine
-- **Korrigeerimised:** perioodikohasuse printsiibist tulenevad kogunenud/ettemakstud kulud-tulud, paranduskanded, amortisatsiooniarvestus
+- **Korrigeerimised:** tulude ja kulude vastavuse printsiibi rakendamine (kogunenud ja ettemakstud tulud ning kulud), paranduskannete koostamine ja põhivara amortisatsiooni arvestamine.
 - **Laovarude arvestus:** FIFO ja kaalutud keskmise hinna meetod
 - **Töötasude arvestus:** palga-, sotsiaalmaksu-, tulumaksu- ja puhkusetasuarvestus, eraldiste (puhkusetasu, garantii) moodustamine
 - **Käibemaksuarvestus:** ostu- ja müügiarvete käibemaks, käibemaksuvõla arvutamine
