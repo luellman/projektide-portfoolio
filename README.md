@@ -1,5 +1,8 @@
 # Projektide portfoolio — Rahandus, Raamatupidamine ja SQL
 
+
+> 🇬🇧 **in English:** This repository contains coursework projects, exercises, and practical assignments from my studies, focused on demonstrating the application of concepts in practice rather than theory alone. The projects cover **financial analysis** and **investment valuation** (DCF, CAPM/WACC, NPV/IRR/MIRR), **accounting** (double-entry bookkeeping, adjusting entries, FIFO inventory, payroll), and **database design and SQL** (normalization, complex queries, and views), using tools such as Excel, MS Access, and MySQL. Each subfolder includes its own README with additional details. Every README begins with a brief English summary, followed by a more comprehensive description in Estonian.
+
 See repositoorium koondab minu õpingute jooksul tehtud iseseisvaid praktilisi töid, mis demonstreerivad minu teadmisi ja praktilisi oskusi **finantsanalüüsi ja investeeringute hindamise**, **raamatupidamise** ning **andmebaaside disaini ja SQL-i** valdkonnas. Iga alamkaust sisaldab eraldi README-faili, kus on täpsemalt kirjeldatud kaustas olevate failide sisu.
 
 Kõik failid on valminud õppetöö käigus iseseisvalt lahendatud harjutusülesannete ja praktikumide põhjal. Repositoorium sisaldab sealhulgas Excelis koostatud finantsmudeleid, raamatupidamisülesandeid, mis põhinevad kahekordsel kirjendamisel, ning SQL-päringuid ja relatsiooniliste andmebaaside disainilahendusi.
