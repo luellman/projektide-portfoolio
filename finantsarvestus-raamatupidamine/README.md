@@ -1,5 +1,9 @@
 # Raamatupidamise põhitõdede ülesanded
 
+> 🇬🇧 **English:** Excel workbooks covering the complete accounting cycle, from transaction analysis and journal entries to T-accounts, trial balance, and balance sheet preparation. Also includes period-end adjustments, FIFO and weighted-average inventory valuation, and payroll, vacation-pay, and VAT accounting. Formula-linked worksheets ensure all calculations update automatically as source data changes.
+
+---
+
 Selles repositooriumis on kogumik Exceli töövihikuid, mis katavad finantsarvestuse (raamatupidamise) põhiprotsesse — algbilansi koostamisest ja kahekordsest kirjendamisest kuni korrigeerimiskannete, laovarude hindamise ja palgaarvestuseni. Enamik ülesandeid läbib täieliku raamatupidamistsükli: majandustehingu analüüs → lausend → päevaraamat → T-konto (pearaamat) → käibeandmik → bilanss.
 
 ## Failide ülevaade
