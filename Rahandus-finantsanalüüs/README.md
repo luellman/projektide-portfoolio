@@ -1,5 +1,9 @@
 # Ettevõtte rahanduse ja investeeringute hindamise arvutused
 
+> 🇬🇧 **English:** **Excel workbooks covering corporate finance and investment valuation**, including cost of capital (CAPM, WACC, YTM), company valuation using DCF and comparable-company multiples (P/E, EV/EBITDA), capital budgeting with NPV, IRR, MIRR, and equivalent annual annuity (EAA), as well as dividend policy and option payoff analysis. Models rely on formulas and named ranges instead of hard-coded values, enabling automatic recalculation whenever input assumptions are modified.
+
+---
+
 Selles kaustas on kogumik Exceli töövihikuid, mis katavad ettevõtte rahanduse (*corporate finance*) ja investeeringute hindamise põhiteemasid — kapitali hinnast ja ettevõtte väärtuse leidmisest kuni investeerimisotsuste tasuvusanalüüsi ja optsioonideni. Kõik mudelid on üles ehitatud valemipõhiselt (nimedega määratletud), mitte fikseeritud arvudega, mistõttu sisendeid muutes arvutab kogu mudel ennast automaatselt ümber.
 
 ## Failide ülevaade
