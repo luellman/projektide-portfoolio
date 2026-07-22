@@ -1,5 +1,9 @@
 # Andmebaaside disain ja SQL päringud
 
+> 🇬🇧 **English:** **Sample relational databases and SQL scripts** covering relational database design and normalization, including schema design, table creation, JOINs, UNION/INTERSECT operations, relational division (double NOT EXISTS), views, and recursive self-referencing relationships (e.g., organizational hierarchies). Implemented and tested in MS Access and MySQL.
+
+---
+
 Selles repositooriumis on kogumik näidisandmebaase (MS Access `.accdb`) ja SQL-skripte, mis käsitlevad relatsiooniliste andmebaaside kavandamist ja normaliseerimist ning SQL-päringute koostamist — alates andmebaasi ja tabelite loomisest kuni keerukamate päringutüüpideni nagu `JOIN`, `UNION`, `INTERSECT`, `NOT EXISTS` ja rekursiivsed (iseendaga seotud) tabelid.
 
 ## Failide ülevaade
