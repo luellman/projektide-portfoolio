@@ -4,7 +4,7 @@
 
 ---
 
-Selles kaustas on kogumik Exceli töövihikuid, mis katavad ettevõtte rahanduse (*corporate finance*) ja investeeringute hindamise põhiteemasid — kapitali hinnast ja ettevõtte väärtuse leidmisest kuni investeerimisotsuste tasuvusanalüüsi ja optsioonideni. Kõik mudelid on üles ehitatud valemipõhiselt (nimedega määratletud), mitte fikseeritud arvudega, mistõttu sisendeid muutes arvutab kogu mudel ennast automaatselt ümber.
+Selles kaustas on kogumik Exceli töövihikuid, mis katavad ettevõtte rahanduse (*corporate finance*) ja investeeringute hindamise põhiteemasid (kapitali hinnast ja ettevõtte väärtuse leidmisest kuni investeerimisotsuste tasuvusanalüüsi ja optsioonideni). Kõik mudelid on üles ehitatud valemipõhiselt (nimedega määratletud), mitte fikseeritud arvudega, mistõttu sisendeid muutes arvutab kogu mudel ennast automaatselt ümber.
 
 ## Failide ülevaade
 
