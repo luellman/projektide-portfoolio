@@ -1,4 +1,4 @@
-# Projektide portfoolio — Rahandus, Raamatupidamine, Excel ja SQL
+# Projektide portfoolio - Rahandus, Raamatupidamine, Excel ja SQL
 
 > 🇬🇧 **English:** This repository contains coursework projects, exercises, and practical assignments completed during my studies, focusing on the practical application of concepts rather than theory alone. The projects cover **financial analysis** and **investment valuation** (DCF, CAPM/WACC, NPV/IRR/MIRR), **accounting** (double-entry bookkeeping, adjusting entries, FIFO inventory, payroll), **Excel-based data analysis and VBA automation** (advanced formulas, PivotTables, Advanced Filter, What-If Analysis, VBA macros, and user-defined functions), and **database design and SQL** (normalization, complex queries, views, and recursive relationships), using tools such as Microsoft Excel, VBA, MS Access, and MySQL. Each subfolder includes its own README with additional details. Every README begins with a brief English summary, followed by a more comprehensive description in Estonian.
 
@@ -19,7 +19,7 @@ Linkidele vajutades saab iga valdkonnaga lähemalt tutvuda.
 
 ## Kasutatud tööriistad
 
-- **Microsoft Excel** — finantsmudelid, andmeanalüüs, visualiseerimine ja automatiseerimine
-- **VBA (Visual Basic for Applications)** — makrod, kasutaja defineeritud funktsioonid (UDF) ja sündmuspõhine programmeerimine
-- **MS Access (.accdb)** — relatsiooniliste andmebaaside disain ja päringud
-- **MySQL (.sql)** — andmebaaside loomine ja SQL-päringute koostamine
+- **Microsoft Excel** - finantsmudelid, andmeanalüüs, visualiseerimine ja automatiseerimine
+- **VBA (Visual Basic for Applications)** - makrod, kasutaja defineeritud funktsioonid (UDF) ja sündmuspõhine programmeerimine
+- **MS Access (.accdb)** - relatsiooniliste andmebaaside disain ja päringud
+- **MySQL (.sql)** - andmebaaside loomine ja SQL-päringute koostamine
