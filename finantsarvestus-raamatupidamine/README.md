@@ -4,16 +4,16 @@
 
 ---
 
-Selles repositooriumis on kogumik Exceli töövihikuid, mis katavad finantsarvestuse (raamatupidamise) põhiprotsesse — algbilansi koostamisest ja kahekordsest kirjendamisest kuni korrigeerimiskannete, laovarude hindamise ja palgaarvestuseni. Enamik ülesandeid läbib täieliku raamatupidamistsükli: majandustehingu analüüs → lausend → päevaraamat → T-konto (pearaamat) → käibeandmik → bilanss.
+Selles repositooriumis on kogumik Exceli töövihikuid, mis katavad finantsarvestuse (raamatupidamise) põhiprotsesse (algbilansi koostamisest ja kahekordsest kirjendamisest kuni korrigeerimiskannete, laovarude hindamise ja palgaarvestuseni). Enamik ülesandeid läbib täieliku raamatupidamistsükli: majandustehingu analüüs → lausend → päevaraamat → T-konto (pearaamat) → käibeandmik → bilanss.
 
 ## Failide ülevaade
 
 | Fail | Peamised teemad |
 |---|---|
-| **`bilansside_loomine__T-kontod__päevaraamatu_täitmine.xlsx`** | Algbilansi koostamine kontojääkide alusel, kontode avamine pearaamatus (T-kontod), majandustehingute kirjendamine päevaraamatus ja T-kontodel, käibeandmiku ja lõppbilansi koostamine — täielik raamatupidamistsükkel ühe kuu näitel |
+| **`bilansside_loomine__T-kontod__päevaraamatu_täitmine.xlsx`** | Algbilansi koostamine kontojääkide alusel, kontode avamine pearaamatus (T-kontod), majandustehingute kirjendamine päevaraamatus ja T-kontodel, käibeandmiku ja lõppbilansi koostamine (kogu raamatupidamistsükkel ühe kuu näitel) |
 | **`kahekordne_kirjendamine__T-kontod__päevaraamatu_täitmine.xlsx`** | Kahekordse kirjendamise põhimõte: majandustehingute analüüs ja lausendite koostamine, päevaraamatu ja T-kontode täitmine, käibeandmiku ning bilansi koostamine kontojääkide põhjal |
 | **`korrigeerimis-_ja_reguleerimiskannete_ülesanded.xlsx`** | Perioodi lõpu korrigeerimiskanded: kogunenud (võlgnetavad ja laekumata) intressid, ettemakstud kulud, paranduskanded ekslike kirjendite jaoks, põhivara amortisatsiooni arvestus (lineaarne meetod) ja jääkmaksumuse leidmine |
-| **`FIFO_meetod.xlsx`** | Laovarude hindamine erinevate meetoditega — FIFO ja kaalutud keskmine hind (nii perioodi- kui pidevarvestuses) — müüdud kauba kulu (COGS), lõppjäägi ja kasumi arvutamine ning meetodite tulemuste võrdlus |
+| **`FIFO_meetod.xlsx`** | Laovarude hindamine erinevate meetoditega: FIFO ja kaalutud keskmine hind (nii perioodi- kui pidevarvestuses), müüdud kauba kulu (COGS), lõppjäägi ja kasumi arvutamine ning meetodite tulemuste võrdlus |
 | **`töötasude__puhkustasude_ja_lühiajaliste_kohustiste_arvestus.xlsx`** | Palgaarvestus (tulumaks, sotsiaalmaks, töötuskindlustus- ja kogumispensionimaksed), puhkusetasu ja puhkusetasueraldise arvestus, käibemaksuarvestus ja -võla leidmine, garantiieraldise moodustamine |
 
 ## Kasutatud meetodid ja oskused
@@ -36,5 +36,5 @@ Mitmeosalised töövihikud (nt algbilanss → päevaraamat → T-kontod → käi
 *Palga arvestamine koos kinnipidamistega ning arvutuskäiguga.* 
 ![Palgaarvestuse arvutuskäik](./finantsarvestus-pildid/palga-arvestus.png)
 
-*Laovarude hindamine FIFO ning kaalutud keskmise arvestuse meetodil — lõppjääk, kasum ja müüdud kauba kulu (COGS).*
+*Laovarude hindamine FIFO ning kaalutud keskmise arvestuse meetodil: lõppjääk, kasum ja müüdud kauba kulu (COGS).*
 ![FIFO tulemustabel](./finantsarvestus-pildid/FIFO&kaalutud-keskmine-arvestus.png)
