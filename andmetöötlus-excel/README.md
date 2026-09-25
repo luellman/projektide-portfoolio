@@ -4,7 +4,7 @@
 
 ---
 
-Selles repositooriumis on kogumik Exceli töövihikuid (.xlsx ja .xlsm), mis käsitlevad andmetöötlust ja automatiseerimist Excelis — alates valemipõhisest andmeanalüüsist kuni PivotTable'ite, Advanced Filteri, What-If Analysis tööriistade ning VBA programmeerimiseni. Projektid demonstreerivad Exceli võimalusi andmete analüüsimisel, visualiseerimisel ja automatiseerimisel, hõlmates valemite, sisseehitatud tööriistade ja VBA programmeerimise praktilist rakendamist.
+Selles repositooriumis on kogumik Exceli töövihikuid (.xlsx ja .xlsm), mis käsitlevad andmetöötlust ja automatiseerimist Excelis: alates valemipõhisest andmeanalüüsist kuni PivotTable'ite, Advanced Filteri, What-If Analysis tööriistade ning VBA programmeerimiseni. Näited demonstreerivad minu oskusi andmete analüüsimisel, visualiseerimisel ja automatiseerimisel, hõlmates valemite, sisseehitatud tööriistade ja VBA programmeerimise praktilist rakendamist.
 
 ## Failide ülevaade
 
@@ -28,11 +28,11 @@ Selles repositooriumis on kogumik Exceli töövihikuid (.xlsx ja .xlsm), mis kä
 
 `.xlsx` failid sisaldavad valemite ja Exceli sisseehitatud tööriistade abil koostatud lahendusi ning avanevad Microsoft Excelis.
 
-`.xlsm` failid sisaldavad lisaks VBA makrosid. Nende kasutamiseks tuleb töövihiku avamisel lubada makrode käivitamine (**Enable Content / Luba sisu**). VBA lähtekoodi saab vaadata Excelis menüüst **Developer → Visual Basic** (`Alt + F11`).
+`.xlsm` failid sisaldavad lisaks VBA makrosid. Nende kasutamiseks tuleb töövihiku avamisel lubada makrode käivitamine (**Enable Content / Luba sisu**). VBA lähtekood on lisatud eraldi kaustas, kuid seda saab ka excelist näha klahvikombinatsiooniga (`alt + F11`).
 
 Kõik töövihikud sisaldavad töölehtede alguses lühikirjeldusi ning eraldi nimetatud vahemikke lähteandmete (**ANDMED**) ja arvutuste (**ARVUTUSED** / **VALEMID**) jaoks.
 
-Lisaks töövihikutele sisaldab repositoorium VBA lähtekoodi (.bas ja .cls), mis võimaldab makrode ja kasutaja defineeritud funktsioonide koodi sirvida otse GitHubis, ilma Exceli töövihikuid avamata.
+Lisaks töövihikutele sisaldab repositoorium VBA lähtekoodi vastavas kaustas (.bas ja .cls), 
 
 Õppeotstarbel kasutatud isikuandmed ("Personal", "Töötajad", "Inimesed" jt töölehed) on väljamõeldud.
 
